@@ -1,0 +1,6 @@
+{
+  "name": "حساباتی خۆم",
+  "description": "ئەپی سادەی حساباتی مانگانەی بەریدی پەیجەکان بە وێنە و دیناری عێراقی",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
