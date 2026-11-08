@@ -273,9 +273,7 @@ fun HomeScreen(
                         OutlinedButton(
                             onClick = { showResetConfirmDialog = true },
                             shape = RoundedCornerShape(10.dp),
-                            border = ButtonDefaults.outlinedButtonBorder.copy(
-                                brush = androidx.compose.ui.graphics.SolidColor(MaterialTheme.colorScheme.outlineVariant)
-                            ),
+                            border = androidx.compose.foundation.BorderStroke(1.dp, MaterialTheme.colorScheme.outlineVariant),
                             colors = ButtonDefaults.outlinedButtonColors(
                                 contentColor = MaterialTheme.colorScheme.onSurface
                             ),
