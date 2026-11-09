@@ -48,4 +48,5 @@ git push -u origin main
 - **UI**: Jetpack Compose (Material 3 - B&W Minimalist)
 - **Database**: Android Jetpack Room (SQLite)
 - **Image Handling**: Coil Compose
-- **CI/CD**: GitHub Actions (Ubuntu / Temurin JDK 17)
+- **CI/CD**: GitHub Actions (Ubuntu / Temurin JDK 21 / Android SDK 36.1)
+- **Pre-built APK**: فایلی ئامادەکراو لەناو پڕۆژە لە ژێر ناوی `Hesabati-Xom-app-debug.apk` هەیە.
